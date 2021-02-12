@@ -1,0 +1,28 @@
+.toggle{
+    position: relative;
+    margin-left: 50%;
+    left: -10rem;
+}
+.intro{
+    position: relative;
+    margin-left: 8%;
+    left: -1rem;
+    font-size: 50px;
+}
+.buttonH {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .buttons{
+      margin-top: 5rem;
+  }
+  .button2{
+      margin-left: 3rem;
+  }
